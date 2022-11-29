@@ -1,6 +1,6 @@
 //***************************************************************************
 //
-// Copyright (C), 2009-2010, Handy Information Co.,Ltd,All Rights Reserved
+// 
 //
 // FileName:      rawimage.cpp  
 // Author:        Erics
