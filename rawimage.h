@@ -1,3 +1,18 @@
+//***************************************************************************
+//
+// Copyright (C), 2009-2010, Handy Information Co.,Ltd,All Rights Reserved
+//
+// FileName:      rawimage.cpp  
+// Author:        Erics
+// Date:          2022/11/29
+// Description:   16位raw图像处理方法
+// Function List:  
+// History:              
+//          <author>     <time>     <desc>        
+//          Erics        2022/11/29  Build
+//
+//***************************************************************************
+
 #ifndef _RAW_IMAGE_
 #define _RAW_IMAGE_
 
