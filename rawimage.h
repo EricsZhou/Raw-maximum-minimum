@@ -2,7 +2,7 @@
 //
 // 
 //
-// FileName:      rawimage.cpp  
+// FileName:      rawimage.h
 // Author:        Erics
 // Date:          2022/11/29
 // Description:   16位raw图像处理方法
